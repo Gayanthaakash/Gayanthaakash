@@ -13,9 +13,8 @@ I approach security through a "remediation-first" lens—documenting technical v
 ---
 
 ## 📁 Hands-On Portfolios
-* **[TryHackMe Writeups](https://tryhackme.com/p/akashgayantha6)** – Step-by-step offensive testing reports with a heavy focus on infrastructure and web app vulnerabilities.
-* **[Local Hacking Lab Projects]** – Documenting network reconnaissance (Nmap scans) and exploitation workflows within my isolated VMware environments.
-
+* **[TryHackMe Writeups](/Gayanthaakash/TryHackMe-Writeups)** – Step-by-step offensive testing reports with a heavy focus on infrastructure and web app vulnerabilities.
+* **[Local Hacking Lab Projects](/Gayanthaakash/Local-Hacking-Lab)** – Documenting network reconnaissance (Nmap scans) and exploitation workflows within my isolated VMware environments.
 ---
 
 ## 🛠️ Technical Highlights & Tooling

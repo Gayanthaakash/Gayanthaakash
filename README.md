@@ -26,6 +26,8 @@ I approach security through a "remediation-first" lens—documenting technical v
 ---
 
 ## 🎓 Certifications (In-Progress / 2026 Target)
+
+* **XRY Certification Course** ( Digital Forensics and Mobile Data Extraction) -*Issued May 2026 · Expires May 2029*
 * **Microsoft SC-500** (Cloud & AI Security Engineer Associate) – *Targeting July/August 2026*
 * **eJPTv2** (eLearnSecurity Junior Penetration Tester) – *Targeting August 2026*
 

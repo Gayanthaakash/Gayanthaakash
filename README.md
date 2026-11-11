@@ -1,23 +1,23 @@
-# Hi there, I'm Gayanthaakash 👋
+ Hi there, I'm Gayanthaakash 
 
-🎯 **Aspiring Cybersecurity Analyst & Penetration Tester**
-🎓 Final-Year BSc (Hons) Cyber Security Student @ Staffordshire University
+ **Aspiring Cybersecurity Analyst & Penetration Tester**
+ Final-Year BSc (Hons) Cyber Security Student @ Staffordshire University
 
 ---
 
-## 🚀 About Me
+ About Me
 I don’t just study cybersecurity; I actively build it. I bridge academic theory with aggressive hands-on laboratory environments, focusing on threat mitigation, network defense, and digital forensics. 
 
 I approach security through a "remediation-first" lens—documenting technical vulnerabilities and clear mitigation strategies to help development teams secure their systems.
 
 ---
 
-## 📁 Hands-On Portfolios
+Hands-On Portfolios
 * **[TryHackMe Writeups](/Gayanthaakash/TryHackMe-Writeups)** – Step-by-step offensive testing reports with a heavy focus on infrastructure and web app vulnerabilities.
 * **[Local Hacking Lab Projects](/Gayanthaakash/Local-Hacking-Lab)** – Documenting network reconnaissance (Nmap scans) and exploitation workflows within my isolated VMware environments.
 ---
 
-## 🛠️ Technical Highlights & Tooling
+ Technical Highlights & Tooling
 * **Operating Systems:** Kali Linux, Windows Server, Linux System Administration
 * **Security Tooling:** Nmap, Metasploit, Burp Suite, Wireshark
 * **Digital Forensics:** Certified in **MSAB XRY** (Mobile data extraction & chain of custody compliance)
@@ -25,7 +25,7 @@ I approach security through a "remediation-first" lens—documenting technical v
 
 ---
 
-## 🎓 Certifications (In-Progress / 2026 Target)
+ Certifications (In-Progress / 2026 Target)
 
 * **XRY Certification Course** ( Digital Forensics and Mobile Data Extraction) -*Issued May 2026 · Expires May 2029*
 * **Microsoft SC-500** (Cloud & AI Security Engineer Associate) – *Targeting July/August 2026*
@@ -33,6 +33,6 @@ I approach security through a "remediation-first" lens—documenting technical v
 
 ---
 
-## 📫 Let's Connect!
+ Let's Connect!
 * **LinkedIn:** https://www.linkedin.com/in/gayantha-akash/
 * **Professional Email:** akashgayantha6@gmail.com
